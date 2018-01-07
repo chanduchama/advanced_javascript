@@ -8,7 +8,7 @@ This project contains code samples for the following.
 
 1. Creating class in javascript
 2. Creating public & private static members in the class
-3. Creating public $ private instance members in the class
+3. Creating public & private instance members in the class
 4. Creating protected members in the class
 5. Implementing inheritance in javascript using prototypes
 
@@ -18,11 +18,10 @@ Chrome browser with developer tools
 
 ### Installing
 
-git clone https://github.com/chanduchama/advanced_javascript.git
-cd advanced_javascript
-open "app.html" file in chrome browser
-
-View chrome developer tools console to view the log statements
+1. git clone https://github.com/chanduchama/advanced_javascript.git
+2. cd advanced_javascript
+3. open "app.html" file in chrome browser
+4. View chrome developer tools console to view the log statements
 
 ## Understanding the code
 
